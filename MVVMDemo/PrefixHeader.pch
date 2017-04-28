@@ -1,0 +1,21 @@
+//
+//  PrefixHeader.pch
+//  MVVMDemo
+//
+//  Created by Joseph Gao on 2017/4/21.
+//  Copyright © 2017年 Joseph. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "BaseViewModelIMPL.h"
+#import "BaseViewIMPL.h"
+
+#import <ReactiveObjC/ReactiveObjC.h>
+#import "AFNetworking.h"
+#import "RequestManager.h"
+#import "UIImageView+WebCache.h"
+#import "YYModel.h"
+
+#endif /* PrefixHeader_pch */

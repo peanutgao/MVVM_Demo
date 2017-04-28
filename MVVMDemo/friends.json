@@ -1,0 +1,106 @@
+{
+    "name": "Tom",
+    "gender": 1,
+    "age": 28,
+    "tel": 13800000000,
+    "headerImg": "https://cdn0.iconfinder.com/data/icons/PRACTIKA/256/twitter.png",
+    "isAdmin": true,
+    "friends": [
+                {
+                "name": "Jo",
+                "gender": 1,
+                "age": 28,
+                "tel": 13800000000,
+                "headerImg": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Miro_icon.png",
+                "isAdmin": true
+                },
+                {
+                "name": "Lala",
+                "gender": 0,
+                "age": 18,
+                "tel": 13800000000,
+                "headerImg": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Miro_icon.png",
+                "isAdmin": false
+                },
+                {
+                "name": "Jim",
+                "gender": 1,
+                "age": 24,
+                "tel": 13800000000,
+                "headerImg": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Miro_icon.png",
+                "isAdmin": false
+                },
+                {
+                "name": "Fibby",
+                "gender": 0,
+                "age": 28,
+                "tel": 13800000000,
+                "headerImg": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Miro_icon.png",
+                "isAdmin": false
+                },
+                {
+                "name": "Jo",
+                "gender": 1,
+                "age": 28,
+                "tel": 13800000000,
+                "headerImg": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Miro_icon.png",
+                "isAdmin": true
+                },
+                {
+                "name": "Lala",
+                "gender": 0,
+                "age": 18,
+                "tel": 13800000000,
+                "headerImg": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Miro_icon.png",
+                "isAdmin": false
+                },
+                {
+                "name": "Jim",
+                "gender": 1,
+                "age": 24,
+                "tel": 13800000000,
+                "headerImg": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Miro_icon.png",
+                "isAdmin": false
+                },
+                {
+                "name": "Fibby",
+                "gender": 0,
+                "age": 28,
+                "tel": 13800000000,
+                "headerImg": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Miro_icon.png",
+                "isAdmin": false
+                },
+                {
+                "name": "Jo",
+                "gender": 1,
+                "age": 28,
+                "tel": 13800000000,
+                "headerImg": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Miro_icon.png",
+                "isAdmin": true
+                },
+                {
+                "name": "Lala",
+                "gender": 0,
+                "age": 18,
+                "tel": 13800000000,
+                "headerImg": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Miro_icon.png",
+                "isAdmin": false
+                },
+                {
+                "name": "Jim",
+                "gender": 1,
+                "age": 24,
+                "tel": 13800000000,
+                "headerImg": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Miro_icon.png",
+                "isAdmin": false
+                },
+                {
+                "name": "Fibby",
+                "gender": 0,
+                "age": 28,
+                "tel": 13800000000,
+                "headerImg": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Miro_icon.png",
+                "isAdmin": false
+                }
+                ]
+}
